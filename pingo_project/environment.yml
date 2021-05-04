@@ -1,0 +1,10 @@
+name: pingoEnv
+channels:
+ - conda-forge
+ - defaults
+dependencies:
+ - python=3.8
+ - rasterio
+ - earthpy
+ - proj-data
+ - geopandas
