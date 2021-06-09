@@ -1,8 +1,8 @@
-#Pingo Detection
+# Pingo Detection
 
 Trying our best to design a Convolutional Neural Network (CNN) that detects pingos in northern Alaska.
 
-##Workflow
+## Workflow
 
 The pytorch code for running our model can be found in the `pingo.ipynb` notebook. In order to run this notebook you need to have:
 
